@@ -515,7 +515,8 @@ Interactive_Proposal_Calendar/
 Add the final dashboard screenshot to the images folder.
 
 ![Interactive Proposal Calendar](images/proposal-calendar-dashboard.png)
-
+---
+![Interactive Proposal Calendar](images/proposal-calendar-dashboard-FILTERED.png)
 ---
 
 
