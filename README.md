@@ -3,6 +3,8 @@
 An interactive **Power BI Proposal Calendar** designed to help users track proposal activity by date, identify days with submitted proposals, and explore proposal details through dynamic filtering and interactive tooltips.
 
 The project simulates a real-world freelance/business use case where proposal records are connected to an interactive calendar that allows users to analyze proposal activity at both the monthly and daily levels.
+
+---
 ![Interactive Proposal Calendar](images/proposal-calendar-dashboard.png)
 ---
 
